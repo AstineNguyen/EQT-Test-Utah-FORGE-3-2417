@@ -1,0 +1,14 @@
+{
+    "model_name": "EQTransformer_FORGE_80_20",
+    "input_length": 6000,
+    "n_chn": 3,
+    "dt": 0.01,
+    "batch_size": 16,
+    "epochs": 50,
+    "learning_rate": 0.001,
+    "validation_split": 0.2,
+    "patience": 10,
+    "min_delta": 0.001,
+    "train_split": 0.8,
+    "test_split": 0.2
+}

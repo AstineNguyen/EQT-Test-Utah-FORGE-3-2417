@@ -1,0 +1,9 @@
+{
+    "detection_accuracy": 1.0,
+    "detection_f1": 1.0,
+    "detection_precision": 1.0,
+    "detection_recall": 1.0,
+    "p_pick_accuracy": 0.9615384615384616,
+    "s_pick_accuracy": 0.9615384615384616,
+    "test_size": 52
+}

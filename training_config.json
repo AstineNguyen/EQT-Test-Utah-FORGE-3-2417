@@ -1,0 +1,17 @@
+{
+    "model_name": "EQTransformer_FORGE",
+    "input_length": 6000,
+    "n_chn": 3,
+    "dt": 0.01,
+    "batch_size": 32,
+    "epochs": 100,
+    "learning_rate": 0.001,
+    "validation_split": 0.2,
+    "patience": 10,
+    "min_delta": 0.001,
+    "data_augmentation": true,
+    "noise_level": 0.1,
+    "detection_threshold": 0.3,
+    "P_threshold": 0.1,
+    "S_threshold": 0.1
+}
